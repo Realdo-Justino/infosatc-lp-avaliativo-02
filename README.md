@@ -3,4 +3,4 @@ Atividade avaliativa 02 da disciplina de linguagem de programação do curso t
 
 Pyton
 
-Realdo Justino Júnior
+Realdo Justino Júnior. 
